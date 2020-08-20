@@ -1,2 +1,1 @@
-# e-commerce-aspcore
-Build Web E-Commerce With ASP.NET Core MVC
+#Build Web E-Commerce With ASP.NET Core MVC
